@@ -1,4 +1,5 @@
-🚀 Welcome to GameServersHub Organization 🎮
+## Welcome to the GameServersPanel Organization 
+Hosted directly by [GameServersHub.com](https://gameservershub.com)
 
 If you're looking for top-of-the-line solutions to manage your video game servers, look no further than meServersHub. We specialize in creating and maintaining state-of-the-art Game Server Management Panels that are designed to provide you with a truly elevated hosting experience. Our team is dedicated to developing highly efficient and powerful management panels that ensure seamless operation for a wide variety of popular game titles. Whether you're running a small private server or a large-scale gaming community, our panels are equipped to handle the demands of any setup. With meServersHub, you can rest assured that your game servers are in good hands.
 
